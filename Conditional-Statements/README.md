@@ -1,1 +1,3 @@
-# These are programs for conditional staments
+# Conditional Statements
+These are programs for coditional statements.
+
